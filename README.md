@@ -3,10 +3,10 @@ This project is a website for a Courier service company known as Deleirit-Courie
 
 ## Project Description
 The users visit the site's landing page, then they create an account or login if they already have an account. After login in they can now be able to;
-        1. Place orders
-        2. Cancel orders
-        3. Check order status
-        4. Change destination.
+        * Place orders
+        * Cancel orders
+        * Check order status
+        * Change destination.
 Incase of any inquiries their is a button where the user can contact the company and write a short description of issue.
 
 ### Technologies used
